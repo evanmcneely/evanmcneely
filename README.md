@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evanmcneely
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning how to type
-- 💞️ I’m looking to collaborate on ... not sure yet
+- 🌱 I’m currently learning how to program
+- 💞️ I’m not looking to collaborate on anything right now, come back soon
 - 📫 How to reach me ... 
 
 <!---
