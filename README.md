@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evan McNeely
 - 🔧 Technologies I work with: TypeScript, JavaScript, Solidity, React, Node.js, Express, GraphQL, SQL, NoSQL, Webpack
-- 🙋 Technologies I want to work with: Go, Rust, Java, SSR, Kafka 
+- 🙋 Technologies I want to work with: Go, Rust, Ruby, Java, SSR, Kafka 
 - 🌱 I’m currently learning more about system design and application architecture
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evanmcneely/)
 - 📦 Packages I manage: 
