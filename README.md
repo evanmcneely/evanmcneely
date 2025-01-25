@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evan McNeely
-- 🔧 Go, TypeScript, JavaScript, Python, Lua, React, SQL, NoSQL
+- 🔧 Go, TypeScript, JavaScript, Python, Lua, React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evanmcneely/)
 - 👨‍💻 Working for RedBrick and Leadpages
 
